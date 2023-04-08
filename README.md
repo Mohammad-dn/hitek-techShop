@@ -23,10 +23,3 @@ To run this project on your local machine, follow these steps:
 ## Development Status
 This project is still in development mode and improvements are being made regularly.
 
-## Contributors
-- [Mahdi Ettehadnejad](https://github.com/mahdi-Eth)
-- [Mohammd Dehghani](https://github.com/Mohammad-dn)
-- [Mehdi Moazemitabar](https://github.com/mehdimoazemi)
-
-## Author
-- [Mahdi Ettehadnejad](https://github.com/mahdi-Eth)
